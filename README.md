@@ -3,11 +3,11 @@
 
 <br/>
 
-<h2>O que foi desenvolvido</h2>
+<h2>O quê foi desenvolvido</h2>
 <p>Foi desenvolvida uma aplicação de e-commerce com auxílio da <a href="https://developers.mercadolivre.com.br/pt_br/itens-e-buscas">API do mercado livre</a>.</p>
 <br/>
   
-<h2>O que foi avaliado</h2>
+<h2>O quê foi avaliado</h2>
 <ul>
   <li>Aderência do código às especificações</li>
   <li>Organização do código. Uso de funções pequenas, simples e bem definidas;</li>
