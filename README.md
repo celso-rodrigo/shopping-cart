@@ -26,11 +26,6 @@
     <p>Abra a pasta do repositório</p>
   </li>
   <li>
-    <p>Instale as dependências</p>
-    <pre>npm install</pre>
-  </li>
-  <li>
-    <p>Inicie o projetot</p>
-    <pre>npm start</pre>
+    <p>Abra o arquivo index.html</p>
   </li>
 </ol>
